@@ -9,6 +9,6 @@ This is a simple To-Do List web application built using Python. It allows users 
 - Delete tasks
 
 ## Tech Stack
-- Python (Flask or your specific framework)
+- Python 
 - HTML templates
-- (Optional) SQLite or file-based storage for tasks
+- SQLite or file-based storage for tasks
